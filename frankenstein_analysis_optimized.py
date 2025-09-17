@@ -235,7 +235,8 @@ principal_characters = {
     'Monster': ['monster', 'creature', 'fiend', 'daemon'],
     'William': ['William'],
     'Ernest': ['Ernest'],
-    'Alphonse': ['Alphonse', 'father', 'my father', 'his father']
+    'Father': ['Alphonse', 'father', 'my father', 'his father'],
+    'Mother': ['Caroline', 'mother', 'my mother', 'his mother']
 }
 
 def contains_character(text, character_variants):
